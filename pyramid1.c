@@ -21,6 +21,6 @@ int main()
 
         printf("\n");
     }
-
+ printf(“\n25331A05G6\n”);
     return 0;
 }
